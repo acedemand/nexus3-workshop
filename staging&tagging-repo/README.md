@@ -26,7 +26,7 @@ curl -u admin:admin123 -X POST --header 'Content-Type: application/json' http://
 }'
 ```
 You can see the tag that you added;C:\dev\projects\sonatype\nexus3-workshop\staging&tagging-repo\pics
-![alt text](https://github.com/acedemand/nexus3-workshop/staging&tagging-repo/pics/TagsMenu.png "Tagging Page")
+![alt text](https://raw.githubusercontent.com/acedemand/nexus3-workshop/master/staging%26tagging-repo/pics/TagsMenu.png "Tagging Page")
 
 #### Associate Components with a Tag
 This endpoint allows you to search for components and associate them to an existing tag.
@@ -41,7 +41,7 @@ curl -u admin:admin123 -X POST 'http://127.0.0.1:8081/service/rest/v1/tags/assoc
     version=2.1.1'
 ```
 You can see the components tags;
-![alt text](https://github.com/acedemand/nexus3-workshop/staging&tagging-repo/pics/ComponenetMenu.png "Component Page")
+![alt text](https://raw.githubusercontent.com/acedemand/nexus3-workshop/master/staging%26tagging-repo/pics/ComponenetMenu.png "Component Page")
 
 #### Tagging During Component Upload
 Tagging components can also be accomplished by including a tag when exercising the upload component REST endpoint provided by the Components API. 
