@@ -25,7 +25,7 @@ curl -u admin:admin123 -X POST --header 'Content-Type: application/json' http://
     }
 }'
 ```
-You can see the tag that you added;C:\dev\projects\sonatype\nexus3-workshop\staging&tagging-repo\pics
+You can see the tag that you added;
 ![alt text](https://raw.githubusercontent.com/acedemand/nexus3-workshop/master/staging%26tagging-repo/pics/TagsMenu.png "Tagging Page")
 
 #### Associate Components with a Tag
