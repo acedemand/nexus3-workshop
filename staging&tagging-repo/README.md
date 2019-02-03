@@ -1,4 +1,4 @@
-# Nexus3 Staging & Tagging
+# Nexus3 Staging - Tagging
 ___
 ###### Notes;
 - Staging and Tagging just available Nexus Repository Manager Pro
